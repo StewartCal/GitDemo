@@ -1,2 +1,8 @@
 Bagel
 Sourdough
+flat
+naan
+Seeds and Nut
+multigrain
+wholewheat
+potato
